@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C, Java, Python, Web Dev**
 
-- 📫 How to reach me **michaelgbryan3@gmail.com**
+- 📫 How to reach me **mikeybryan2310@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1YBlfV-98p1RC6NkVoyk92kJ4ueYGzU2xx6ZtmZfxRjQ/edit?usp=sharing](https://docs.google.com/document/d/1YBlfV-98p1RC6NkVoyk92kJ4ueYGzU2xx6ZtmZfxRjQ/edit?usp=sharing)
 
