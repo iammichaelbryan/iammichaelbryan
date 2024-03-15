@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **mikeybryan2310@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1YBlfV-98p1RC6NkVoyk92kJ4ueYGzU2xx6ZtmZfxRjQ/edit?usp=sharing]([https://docs.google.com/document/d/1YBlfV-98p1RC6NkVoyk92kJ4ueYGzU2xx6ZtmZfxRjQ/edit?usp=sharing](https://docs.google.com/document/d/1IVFQ7cYmDHGd4Z1Q5VSqCFepcCdzH_e1FgxatOnhVZg/edit))
-
+- 📄 Know about my experiences: https://docs.google.com/document/d/1IVFQ7cYmDHGd4Z1Q5VSqCFepcCdzH_e1FgxatOnhVZg/edit
 - ⚡ Fun fact **I play football and volleyball**
 
 <h3 align="left">Connect with me:</h3>
