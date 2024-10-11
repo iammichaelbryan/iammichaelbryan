@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Bryan</h1>
-<h3 align="center">An Aspiring Software Engineer from St. Catherine, Jamaica</h3>
+<h3 align="center">Software Engineer from St. Catherine, Jamaica</h3>
 
 - 🔭 I’m the Lead Programmer on the DevOps team for [The Elsa-Leo Rhynie Hall Domestic Affairs Automation Software](https://github.com/iammichaelbryan/ELRDAAS)
 
