@@ -5,13 +5,10 @@
 
 - 🌱 I’m currently learning **JavaScript, PHP, and MySQL**
 
-- 📝 I regularly write articles to help other developers on [https://www.the-algorithmic-plug.com/](https://www.the-algorithmic-plug.com/)
-
 - 💬 Ask me about **C, Java, Python, Web Dev**
 
 - 📫 How to reach me **mikeybryan2310@gmail.com**
 
-- 📄 Know about my experiences: https://docs.google.com/document/d/1IVFQ7cYmDHGd4Z1Q5VSqCFepcCdzH_e1FgxatOnhVZg/edit
 - ⚡ Fun fact **I play football and volleyball**
 
 <h3 align="left">Connect with me:</h3>
