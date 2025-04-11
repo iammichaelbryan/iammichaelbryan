@@ -3,7 +3,7 @@
 
 - 🔭 I’m the Lead Programmer on the DevOps team for [The Elsa-Leo Rhynie Hall Domestic Affairs Automation Software](https://github.com/iammichaelbryan/ELRDAAS)
 
-- 🌱 I’m currently learning **Spring, JDBC, JPA/Hibernate**
+- 🌱 I’m currently learning **Spring, JDBC, JPA/Hibernate, Microservices, Cloud-Based, Containerized, and Distributed Software Systems**
 
 - 💬 Ask me about **C, Java, Python, Web Dev**
 
