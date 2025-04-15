@@ -3,7 +3,7 @@
 
 - 🔭 My Resume: https://docs.google.com/document/d/1V52GcnNQtW0cQ29FxSQK2lq1QgONhEYCcTXpGHSmYWY/edit?usp=sharing
 
-- 🌱 I’m currently learning **Spring, JDBC, JPA/Hibernate, Microservices, Cloud-Based, Containerized, and Distributed Software Systems**
+- 🌱 I’m currently learning about **Spring, JDBC, JPA/Hibernate, Microservices, Cloud-Based, Containerized, and Distributed Software Systems**
 
 - 💬 Ask me about **C, Java, Python, Web Dev**
 
